@@ -2,15 +2,18 @@ name: Build Pack
 
 on:
   push:
-    branches: [ $default-branch ]
+    branches:
+      - main
   pull_request:
-    branches: [ $default-branch ]
+    branches:
+      - main
   workflow_dispatch: 
   
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v5
       - name: Zip dir
         run: zip -r pack.zip pack
 
