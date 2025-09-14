@@ -1,0 +1,13 @@
+name = "EMI For Create Stock"
+filename = "emiforcreatestock-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5Ez0Fy6f/versions/b62lkKvq/emiforcreatestock-1.0.3.jar"
+hash-format = "sha512"
+hash = "e77becabc26ffecf33cf93457464f8499d5cd27caabae8f62f963680593b99dffd879c22123d5a16fa649c8608706f906b71a3daf2ef081389862e967f1b3abe"
+
+[update]
+[update.modrinth]
+mod-id = "5Ez0Fy6f"
+version = "b62lkKvq"

@@ -1,0 +1,13 @@
+name = "Explorations"
+filename = "explorations-neoforge-1.21.1-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcGnjJ39/versions/LXWlvQLv/explorations-neoforge-1.21.1-1.6.2.jar"
+hash-format = "sha512"
+hash = "0514f21178b12c8bd3fe23aca7f44100e9745197915285077638a08ed8b78b7cba2709ecafe6f8f8a79a51637316f343379df387b6a20654b194cc687e531108"
+
+[update]
+[update.modrinth]
+mod-id = "pcGnjJ39"
+version = "LXWlvQLv"

@@ -1,0 +1,13 @@
+name = "Supplementaries"
+filename = "supplementaries-1.21-3.4.14-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/SwHISoKO/supplementaries-1.21-3.4.14-neoforge.jar"
+hash-format = "sha512"
+hash = "95d6172e62e5159a4f1cd8f95f8d1d1b731418a97235d6e0a4cd109aa96a00d0543510966fa782c2ba88b14af6c2b3518cab6ebc6d2b238054032dbb16df5c6b"
+
+[update]
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "SwHISoKO"

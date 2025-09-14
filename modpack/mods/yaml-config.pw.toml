@@ -1,0 +1,13 @@
+name = "YAML Config"
+filename = "yamlconfig-1.2-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L1FFB418/versions/QyfpJeP3/yamlconfig-1.2-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "3c56a13d9f881379f586839e94dd6250d67577756fb440453e89671ce73f8952a2234bf5823b69429dd5281d7b976bf3bfc40f9f7d3a8f22771f1f8e33bc4818"
+
+[update]
+[update.modrinth]
+mod-id = "L1FFB418"
+version = "QyfpJeP3"

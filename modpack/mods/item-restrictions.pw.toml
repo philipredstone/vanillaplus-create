@@ -1,0 +1,13 @@
+name = "Item Restrictions"
+filename = "itemrestrictions-1.3.2-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rU60qFq2/versions/6Supzzhv/itemrestrictions-1.3.2-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "4767e5550c4c7434430f1de0cc8fd0a7e25b4810aa20809bf67f3ded3e436ad3663bdb4a4af27b3f132c403ef5316dd429fedf436aa4ed846bb98be48465abb8"
+
+[update]
+[update.modrinth]
+mod-id = "rU60qFq2"
+version = "6Supzzhv"

@@ -1,0 +1,13 @@
+name = "VanillaPlus: Create"
+author = "hstin"
+version = "1.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8e930f933feb81cc290d5715c4aa9bd8d6f6267aca15dd6388db5e1d82b1e041"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.208"

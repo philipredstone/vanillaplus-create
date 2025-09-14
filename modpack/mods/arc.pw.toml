@@ -1,0 +1,13 @@
+name = "Arc Lib"
+filename = "arc-1.9.4-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3eKhxi7/versions/CedjDAsq/arc-1.9.4-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "f6933c4d05e7145d5566ae05213d32bd90c8fa37986cc531469885b3cc57da426f46e6ab6fb9b5b5e54c147d790d1f64ba6cf420edb2497efc022219646c0a1b"
+
+[update]
+[update.modrinth]
+mod-id = "H3eKhxi7"
+version = "CedjDAsq"

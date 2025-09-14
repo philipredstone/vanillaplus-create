@@ -1,0 +1,13 @@
+name = "Extra dungeons"
+filename = "extra_dungeons-1.0.7-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CHELG1WR/versions/Oq7gOm3I/extra_dungeons-1.0.7-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "0b95f124c482255d9ec0be50163cf6e93dbef8da873a292bb78e40a95a043aa85b6e2f8afea0dda2a612f4430a0b3f18bfedc7e9e1b1ff111466bc66b02d0d12"
+
+[update]
+[update.modrinth]
+mod-id = "CHELG1WR"
+version = "Oq7gOm3I"

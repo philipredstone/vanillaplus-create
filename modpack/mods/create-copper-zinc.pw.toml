@@ -1,0 +1,13 @@
+name = "Create: Copper & Zinc [Forge/Fabric/NeoForge]"
+filename = "create_copper_and_zinc-1.6.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aqYNR6rI/versions/VUJE7tey/create_copper_and_zinc-1.6.5-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "98b2e6d65ef1571cc75646e59b117c614955d1129871eee549a6f63033f4abd0b4e7d0e81a133257ab122d0b69b15bd367871557c8c7bd327b03aa42d3597adf"
+
+[update]
+[update.modrinth]
+mod-id = "aqYNR6rI"
+version = "VUJE7tey"
