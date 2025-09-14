@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/jobsplus-1.5.5-1.21.1-neoforge.jar"
-hash = "dc60eba463b08c41787894b8a27433df117013f5ea67bab97ecaf33c3b6c90ab"
+hash = "c9c3064e91af3b99337d4ec4a543af03d9daeefdaccebb1241d1b7c3e1f98ef9"
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
