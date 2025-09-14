@@ -14,12 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - name: Zip dir
-        run: zip -r pack.zip pack
-
       - name: Archive production artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: dist-without-markdown
+          name: pack
           path: |
-            pack.zip
+            pack/
