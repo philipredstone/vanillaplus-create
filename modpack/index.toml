@@ -120,6 +120,11 @@ hash = "22db71442017112074951924a7f8a62afa3c0d34cb75b1708ed7f86fec64099c"
 metafile = true
 
 [[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "5de2bbab0826b5241e16746b0b739ca5169b0a9df38181d58e8519e6ea7f535f"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
 metafile = true
@@ -287,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "8d3e669a813af2e685efafeca797f95ad8a99c344078e72d2ce0ee1273369bd8"
+metafile = true
+
+[[files]]
+file = "mods/jobs-remastered.pw.toml"
+hash = "6b47a0ceec0e9566d912eb426edffd9c59031d40413129562102c92339dbc0fc"
 metafile = true
 
 [[files]]

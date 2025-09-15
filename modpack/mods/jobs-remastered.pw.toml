@@ -1,0 +1,13 @@
+name = "Jobs+ Remastered"
+filename = "jobsplus-1.5.6-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hxGLlCnq/versions/kCs7IPV5/jobsplus-1.5.6-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "454c9064378323f43379d13cdd988a403b5e60687a233ce4949e7c6dcec1369cb2348b288393134d323984d031f32a5d008be5632828be2f6dea424064b2f90b"
+
+[update]
+[update.modrinth]
+mod-id = "hxGLlCnq"
+version = "kCs7IPV5"
