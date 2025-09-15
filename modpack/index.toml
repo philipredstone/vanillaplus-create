@@ -300,10 +300,6 @@ hash = "6b47a0ceec0e9566d912eb426edffd9c59031d40413129562102c92339dbc0fc"
 metafile = true
 
 [[files]]
-file = "mods/jobsplus-1.5.5-1.21.1-neoforge.jar"
-hash = "c9c3064e91af3b99337d4ec4a543af03d9daeefdaccebb1241d1b7c3e1f98ef9"
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true

@@ -1,12 +1,12 @@
 name = "VanillaPlus: Create"
 author = "hstin"
-version = "1.2.3"
+version = "1.2.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9eef148011c720db89496b95497d0fb7e8d42321c051b3b657b2b5a39b6d9e31"
+hash = "e528ca13f8d06581de5b4d49d3e79b1ec2e1d4af7340847f8ad60670cea0e336"
 
 [versions]
 minecraft = "1.21.1"
