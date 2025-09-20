@@ -5,6 +5,11 @@ file = "config/supplementaries-client.toml"
 hash = "cdf2741c9adb8402cfc9f528e782b91557861c8041754c5d97c96d7c9a5d1352"
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "c15e7554a43fcb2f81920f10d4e683a7dbb342460fa265cb6874e274661ec9ef"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-gauges.pw.toml"
-hash = "d41acd107910e3c913949d8aee8b3fbe5f9db5cdecf5fbc5176c817e60330f93"
+hash = "d88102f6ad27b5178453a8fdaab96a90c1174e4645d60ad312d572e31aabfed7"
 metafile = true
 
 [[files]]
